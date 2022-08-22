@@ -1,7 +1,7 @@
 # Hi ✌, I'm Luis Zapata Yamo
 
 - I'm a student of system engineer
-- I am a lover of technology and nature
+- I'm a lover of technology and nature
 
 <h3 align="left">Conectar conmigo:</h3>
 
