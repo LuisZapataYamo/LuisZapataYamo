@@ -3,7 +3,7 @@
 - I'm a student of system engineer
 - I'm a lover of technology and nature
 
-<h3 align="left">Conectar conmigo:</h3>
+<h3 align="left">Social networks:</h3>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LuisZapataYamo)
 [![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/luiszapatayamo)
