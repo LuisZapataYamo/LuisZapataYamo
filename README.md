@@ -1,7 +1,7 @@
-# Hi ✌, I'm Luis Zapata Yamo
+  # Hola ✌, Me llamo Luis
 
-- I'm a student of system engineer
-- I'm a lover of technology and nature
+- Soy estudiante de la carrera de ingeniería de sistemas
+- Amo la tecnologia y naturaleza
 
 <h3 align="left">Social networks:</h3>
 
